@@ -48,7 +48,9 @@ Performance Comparision:
  Model| Accuracy_Score
  ----------------------
  LR   | 0.81
+ 
  RFC  | 0.79
+ 
  GBC  | 0.80
 
  
