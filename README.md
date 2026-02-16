@@ -12,12 +12,21 @@ Using the data provided by the most famous competition hosted by Kaggel, I have 
  * Performation Metrics Comparision
 
 Dataset Info()
+
 *Age
+
 *Sex
+
 *Passenger Class
+
 *Ticket
+
 *Cabin
+
 *Fare
+
 *Family relationships (SibSp, Parch)
+
 *Embarkation port
+
 *Survived
